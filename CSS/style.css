@@ -14,6 +14,16 @@ body{
     color:royalblue;
 }
 
+h1{
+    font-size: 40px;
+    color: #000
+}
+
+.block{
+    float: left;
+    width: 33.3%;
+}
+
 .container{
     width: 80%;
     margin: auto;
