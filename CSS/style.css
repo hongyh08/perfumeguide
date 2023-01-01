@@ -1,0 +1,20 @@
+body{
+    background-color: #f4f4f4;
+    color: #555555;
+
+    font-family:'Courier New', Courier, monospace
+    font-size: 24px;
+    font-weight: 200;
+
+    font: bold 16px Courier;
+}
+
+.box1{
+    background-color: antiquewhite;
+    color:royalblue;
+}
+
+.container{
+    width: 80%;
+    margin: auto;
+}
